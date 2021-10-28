@@ -2,10 +2,14 @@ Git Test [ru]
 
 ### Какая команда выводит изменения, внесенные отдельным коммитом?
 
-git changes
+* git changes
+* #### git show
+* git status
+* git diff
 
-git show
+### Какой командой создается копия удаленного репозитория?
 
-git status
-
-git diff
+* git fetch
+* git pull
+* #### git clone
+* git add
